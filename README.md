@@ -39,7 +39,8 @@
 |------|------|------|
 | PRD | `docs/PRD.md` | 기능 요구사항 정의 |
 | AI Context | `docs/AI_CONTEXT.md` | AI 설계 기준 컨텍스트 |
-| UI 설계 | `design/FIGMA_LINK.md` | Figma 링크 |
+| UX 설계 | `UX.md` | UX 흐름 및 Figma 화면설계서 링크 |
+| 로드맵 | `docs/ROADMAP.md` | 개발 순서 및 스프린트 계획 |
 
 ---
 
@@ -49,7 +50,7 @@
 |------|------|
 | 상품 데이터 | 상품명, 카테고리, 제조사, 규격, 공급사, 보험코드 |
 | 의약품 데이터 | 성분명, 효능·효과 (`pharmaceutical_effects_ko`) |
-| 데이터 출처 | 원스글로벌 의약품 데이터 |
+| 데이터 출처 | 원스글로벌 API 의약품 데이터 |
 
 ---
 
